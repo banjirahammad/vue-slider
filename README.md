@@ -2,9 +2,9 @@
     This is a carousel(slider). I make it Vue 3 and Tailwind CSS.
 
 ## Live link(url)
-    - [Website](https://banjir-ahammad.com/vue/vue-slider/)
-    - [github](https://github.com/banjirahammad/vue-slider/dist)
-    - [github repository](https://github.com/banjirahammad/vue-slider)
+- [Website](https://banjir-ahammad.com/vue/vue-slider/)
+- [github](https://github.com/banjirahammad/vue-slider/dist)
+- [github repository](https://github.com/banjirahammad/vue-slider)
 
 ## Recommended IDE Setup
 
