@@ -5,5 +5,4 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()],
   // base: 'https://banjir-ahammad.com/vue/vue-slider'
-  // base: 'https://github.com/banjirahammad/vue-slider/dist'
 })

@@ -3,7 +3,6 @@
 
 ## Live link(url)
 - [Website](https://banjir-ahammad.com/vue/vue-slider/)
-- [github](https://github.com/banjirahammad/vue-slider/dist)
 - [github repository](https://github.com/banjirahammad/vue-slider)
 
 ## Recommended IDE Setup
