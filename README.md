@@ -1,5 +1,5 @@
 # Image Carouse using Vue 3 and Tailwind CSS
-    This is a carousel(slider). I make it Vue 3 and Tailwind CSS.
+    This is a carousel(slider). I make it by Vue 3 and Tailwind CSS.
 
 ## Live link(url)
 - [Website](https://banjir-ahammad.com/vue/vue-slider/)
